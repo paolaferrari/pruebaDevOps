@@ -1,0 +1,20 @@
+Feedback
+
+El curso Introducción a DevOps, me resultó muy interesante y productivo donde 
+aprendimos, aplicamos herramientas y metodologías que considero fundamentales para trabajar en IT.
+el material de estudio estuvo muy completo y claro. Las instancias de Sincronía fueron úiles y prácticas.
+El cuestionario Inicial también sirvió para ver como estamos parados a esta altura de la carrera, y visualizar
+nuestros puntos flojos.
+
+
+//Lo malo//
+No le veo nada negativo al curso en sí mismo, a excepción de Los cuestionarios con tiempo límite 
+entre semana que juegan en contra de quienes trabajamos.
+Lo que considero equivocado, es que fue dado en un momento de la carrera donde la prioridad es otra
+y los tiempos son fundamentales para el proyecto final. Dado que DevOps incorpora muchas herramientas,
+y software nuevo, instalaciones y configuraciones, necesitaba bastante tiempo de dedicación, 
+algo que al estar en paralelo con el proyecto final ocasionaba desatender al mismo.
+//otra sugerencia
+Incorporar git desde semestre más tempranos, quizas desde el 3º.
+
+
